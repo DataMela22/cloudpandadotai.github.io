@@ -1,6 +1,6 @@
 {
-    "title": "Freelancer",
-    "name": "startbootstrap-freelancer",
+    "title": "CloudPanda.Ai",
+    "name": "Inspired By Intelligence",
     "version": "5.0.4",
     "scripts": {
         "start": "gulp watch"
